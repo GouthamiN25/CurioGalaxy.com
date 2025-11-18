@@ -72,7 +72,8 @@ def api_chat():
     reply_text = completion.choices[0].message.content
     return jsonify({"reply": reply_text})
 
-
 if __name__ == "__main__":
-    # run on the same port you’ve been using
-    app.run(host="0.0.0.0", port=5050, debug=True)
+    import os
+    port = int(os.environ.get("PORT", 8080))
+    app.run(host="0.0.0.0", port=port)
+
