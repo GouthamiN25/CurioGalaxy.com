@@ -1,20 +1,44 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+## 🌌 CurioGalaxy.com 
 
-# Run and deploy your AI Studio app
+CurioGalaxy is an AI-powered web experience I built using TypeScript, Node.js, Vite, and Google AI Studio. Designed with a cosmic theme, it serves as an intelligent space where users can chat with a AI-powered assistant, explore ideas, and interact with a modern UI. The platform demonstrates how conversational AI can be integrated into real web applications to make learning, ideation, and problem-solving more engaging and accessible. CurioGalaxy is a web experience built with TypeScript, Vite, Node.js, and Google AI Studio.
+It blends design, creativity, and AI-powered interactions to create a playful yet modern user experience.
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+🎨 Animated star-field cosmic UI
+⚡ Built with TypeScript + Vite
+🤖 Powered by Google Gemini API
+📦 Modular components & clean folder structure
+📱 Fully responsive design
+🌐 Ready for deployment on Google AI Studio / Render / Cloud Run
 
-## Run Locally
+## 🛠️ Tech Stack
+Frontend:
+TypeScript
+React (Vite)
+Tailwind (if used)
+CSS animations
+Backend / API:
+Node.js
+Google Gemini API (via Google AI Studio)
 
-**Prerequisites:**  Node.js
+## 📁 Project Structure
+
+CurioGalaxy.com/
+│── public/
+│── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.tsx
+│   ├── main.tsx
+│── package.json
+│── vite.config.ts
+│── README.md
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📬 Author
+Gouthami Nadupuri
+Data Scientist | AI Engineer | Creator of CurioGalaxy
+🔗 LinkedIn: https://www.linkedin.com/in/gouthami-nadupuri
+🔗 GitHub: https://github.com/GouthamiN25
+
