@@ -6,39 +6,65 @@ It blends design, creativity, and AI-powered interactions to create a playful ye
 ## ✨ Features
 
 🎨 Animated star-field cosmic UI
+
 ⚡ Built with TypeScript + Vite
+
 🤖 Powered by Google Gemini API
+
 📦 Modular components & clean folder structure
+
 📱 Fully responsive design
+
 🌐 Ready for deployment on Google AI Studio / Render / Cloud Run
 
 ## 🛠️ Tech Stack
+
 Frontend:
+
 TypeScript
+
 React (Vite)
+
 Tailwind (if used)
+
 CSS animations
+
 Backend / API:
+
 Node.js
+
 Google Gemini API (via Google AI Studio)
 
 ## 📁 Project Structure
 
 CurioGalaxy.com/
+
 │── public/
+
 │── src/
+
 │   ├── components/
+
 │   ├── assets/
+
 │   ├── App.tsx
+
 │   ├── main.tsx
+
 │── package.json
+
 │── vite.config.ts
+
 │── README.md
 
 
 ## 📬 Author
+
 Gouthami Nadupuri
+
 Data Scientist | AI Engineer | Creator of CurioGalaxy
+
 🔗 LinkedIn: https://www.linkedin.com/in/gouthami-nadupuri
+
 🔗 GitHub: https://github.com/GouthamiN25
 
