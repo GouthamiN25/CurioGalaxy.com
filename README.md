@@ -62,7 +62,7 @@ CurioGalaxy.com/
 
 Gouthami Nadupuri
 
-Data Scientist | AI Engineer | Creator of CurioGalaxy
+Data Scientist | AI Engineer | Creator of CurioGalaxy 💫
 
 🔗 LinkedIn: https://www.linkedin.com/in/gouthami-nadupuri
 
