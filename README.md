@@ -1,6 +1,6 @@
-## 🌌 CurioGalaxy.com 
+## 🌌 Curiogalaxy.com 
 
-CurioGalaxy is an AI-powered web experience I built using TypeScript, Node.js, Vite, and Google AI Studio. Designed with a cosmic theme, it serves as an intelligent space where users can chat with a AI-powered assistant, explore ideas, and interact with a modern UI. The platform demonstrates how conversational AI can be integrated into real web applications to make learning, ideation, and problem-solving more engaging and accessible. CurioGalaxy is a web experience built with TypeScript, Vite, Node.js, and Google AI Studio.
+Curiogalaxy is an AI-powered web experience I built using TypeScript, Node.js, Vite, and Google AI Studio. Designed with a cosmic theme, it serves as an intelligent space where users can chat with a AI-powered assistant, explore ideas, and interact with a modern UI. The platform demonstrates how conversational AI can be integrated into real web applications to make learning, ideation, and problem-solving more engaging and accessible. Curiogalaxy is a web experience built with TypeScript, Vite, Node.js, and Google AI Studio.
 It blends design, creativity, and AI-powered interactions to create a playful yet modern user experience.
 
 ## ✨ Features
@@ -37,7 +37,7 @@ Google Gemini API (via Google AI Studio)
 
 ## 📁 Project Structure
 
-CurioGalaxy.com/
+Curiogalaxy.com/
 
 │── public/
 
@@ -86,7 +86,7 @@ The author assumes **no liability** for misuse, misinterpretation, or unauthoriz
 ## 👩‍💻 Author
 Gouthami Nadupuri
 
-Data Scientist | AI Engineer | Creator of CurioGalaxy 💫
+Data Scientist | AI Engineer | Creator of Curiogalaxy 💫
 
 🔗 LinkedIn: https://www.linkedin.com/in/gouthami-nadupuri
 
